@@ -1,4 +1,29 @@
 {
-  "name": "HealthcarePatient",
-  "displayName": "Healthcare Patient"
+  "expo": {
+    "name": "Healthcare Patient",
+    "slug": "healthcarepatient",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0D9488"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.HealthcarePatient"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D9488"
+      },
+      "package": "com.HealthcarePatient"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "83caaf2a-ab8e-4c2e-8cb3-de7b416e0284"
+      }
+    }
+  }
 }
