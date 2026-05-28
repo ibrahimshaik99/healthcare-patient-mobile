@@ -20,9 +20,6 @@
       },
       "package": "com.healthcarepatient"
     },
-    "plugins": [
-      "expo-asset"
-    ],
     "extra": {
       "eas": {
         "projectId": "83caaf2a-ab8e-4c2e-8cb3-de7b416e0284"
