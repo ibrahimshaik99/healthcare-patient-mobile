@@ -12,13 +12,13 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.HealthcarePatient"
+      "bundleIdentifier": "com.healthcarepatient"
     },
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#0D9488"
       },
-      "package": "com.HealthcarePatient"
+      "package": "com.healthcarepatient"
     },
     "extra": {
       "eas": {
