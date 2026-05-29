@@ -1,4 +1,5 @@
 {
+  "name": "HealthcarePatient",
   "expo": {
     "name": "Healthcare Patient",
     "slug": "healthcarepatient",
